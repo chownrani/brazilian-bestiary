@@ -214,4 +214,3 @@ Algumas criaturas que podem ser catalogadas:
 
 ---
 
-Desenvolvido com ❤️ para preservar as lendas do folclore brasileiro
